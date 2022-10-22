@@ -1,0 +1,1 @@
+Habarovsk-0821.exe -screen-fullscreen 0 -popupwindow --rect=0x0x2944x960

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 67050d217d549054abae997fe8567a45
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TT Hoves
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e8bb39c71be21fe46a324ce95699d59e, type: 3}
+  - {fileID: 12800000, guid: 32e6caa1931495745a2b5fbf11801389, type: 3}
+  - {fileID: 12800000, guid: c221fd79719c96e499bbf186ba1adb74, type: 3}
+  - {fileID: 12800000, guid: 8bfdb77a6fd68134694fd10bb272134f, type: 3}
+  - {fileID: 12800000, guid: 8b22137fc79de624ca748efaa8e293fa, type: 3}
+  - {fileID: 12800000, guid: f0938e19a81a4aa4bb1eaea546a9939f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  <dataStoreStatus>k__BackingField: 0
+  <configId>k__BackingField: 80d73ad8-1e5d-488e-9096-c905e8384e4d
+  <currentEnvironmentName>k__BackingField: production
+  <currentEnvironmentId>k__BackingField: cb12a36d-68c2-452f-acd2-fb6b05488d2f
+  <currentEnvironmentIsDefault>k__BackingField: 1
+  <addedRulesIDs>k__BackingField: []
+  <updatedRulesIDs>k__BackingField: []
+  <deletedRulesIDs>k__BackingField: []
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"af081a53-5472-47fd-bb97-c9982c5aad16\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AllowApplicationWork\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"5c93b007-7e09-4aef-8f9e-5650b0250883\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"IP\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"21407726-4151-4dcd-978d-968b46486d49\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Port\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"af081a53-5472-47fd-bb97-c9982c5aad16\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AllowApplicationWork\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"5c93b007-7e09-4aef-8f9e-5650b0250883\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"IP\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"21407726-4151-4dcd-978d-968b46486d49\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Port\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"62adc065-f411-4ab6-a9dc-90ae41b52951\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"cb12a36d-68c2-452f-acd2-fb6b05488d2f\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-07-20T10:10:16Z\",\r\n    \"updatedAt\":
+    \"2022-07-20T10:10:16Z\"\r\n  }\r\n]"
+  _rulesList: '[]'
+  _lastCachedRulesList: '[]'

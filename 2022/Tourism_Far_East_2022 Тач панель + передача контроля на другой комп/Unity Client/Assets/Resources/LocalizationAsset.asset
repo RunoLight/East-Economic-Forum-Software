@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2761b790bbe386b428b01f4f7579aab0, type: 3}
+  m_Name: LocalizationAsset
+  m_EditorClassIdentifier: 
+  StringTerms:
+  - Term: saha
+    EngLocalize: THE REPUBLIC OF SAKHA<br>(YAKUTIA)
+    RuLocalize: "\u0420\u0415\u0421\u041F\u0423\u0411\u041B\u0418\u041A\u0410 \u0421\u0410\u0425\u0410<br>(\u042F\u041A\u0423\u0422\u0418\u042F)"
+  - Term: magadan
+    EngLocalize: MAGADAN OBLAST
+    RuLocalize: "\u041C\u0410\u0413\u0410\u0414\u0410\u041D\u0421\u041A\u0410\u042F
+      \u041E\u0411\u041B\u0410\u0421\u0422\u042C"
+  - Term: chukotka
+    EngLocalize: CHUKOTSKY AUTONOMOUS<br>OKRUG
+    RuLocalize: "\u0427\u0423\u041A\u041E\u0422\u0421\u041A\u0418\u0419 \u0410\u0412\u0422\u041E\u041D\u041E\u041C\u041D\u042B\u0419<br>\u041E\u041A\u0420\u0423\u0413"
+  - Term: baikal
+    EngLocalize: ZABAYKALSKY KRAI
+    RuLocalize: "\u0417\u0410\u0411\u0410\u0419\u041A\u0410\u041B\u042C\u0421\u041A\u0418\u0419
+      \u041A\u0420\u0410\u0419"
+  - Term: amur
+    EngLocalize: AMUR OBLAST
+    RuLocalize: "\u0410\u041C\u0423\u0420\u0421\u041A\u0410\u042F \u041E\u0411\u041B\u0410\u0421\u0422\u042C"
+  - Term: khabarovsk
+    EngLocalize: KHABAROVSK KRAI
+    RuLocalize: "\u0425\u0410\u0411\u0410\u0420\u041E\u0412\u0421\u041A\u0418\u0419
+      \u041A\u0420\u0410\u0419"
+  - Term: kamchatka
+    EngLocalize: 'KAMCHATSKY KRAI '
+    RuLocalize: "\u041A\u0410\u041C\u0427\u0410\u0422\u0421\u041A\u0418\u0419 \u041A\u0420\u0410\u0419"
+  - Term: buriatia
+    EngLocalize: THE REPUBLIC OF BURYATIA
+    RuLocalize: "\u0420\u0415\u0421\u041F\u0423\u0411\u041B\u0418\u041A\u0410 \u0411\u0423\u0420\u042F\u0422\u0418\u042F"
+  - Term: eao
+    EngLocalize: JEWISH AUTONOMOUS<br>OBLAST
+    RuLocalize: "\u0415\u0412\u0420\u0415\u0419\u0421\u041A\u0410\u042F \u0410\u0412\u0422\u041E\u041D\u041E\u041C\u041D\u0410\u042F<br>\u041E\u0411\u041B\u0410\u0421\u0422\u042C"
+  - Term: primorie
+    EngLocalize: PRIMORSKY KRAI
+    RuLocalize: "\u041F\u0420\u0418\u041C\u041E\u0420\u0421\u041A\u0418\u0419 \u041A\u0420\u0410\u0419"
+  - Term: sakhalin
+    EngLocalize: SAKHALIN OBLAST
+    RuLocalize: "\u0421\u0410\u0425\u0410\u041B\u0418\u041D\u0421\u041A\u0410\u042F
+      \u041E\u0411\u041B\u0410\u0421\u0422\u042C"
+  ImageTerms:
+  - Term: Button/Home
+    EngLocalize: {fileID: 21300000, guid: a1c29666bb3b69e4a8b526f8edadf25b, type: 3}
+    EngLocalizePath: Textures/home.png
+    RuLocalize: {fileID: 21300000, guid: a1c29666bb3b69e4a8b526f8edadf25b, type: 3}
+    RuLocalizePath: Textures/home.png
+  - Term: Button/Language
+    EngLocalize: {fileID: 21300000, guid: d16f7bcd3fd526c449ee5d8339bfdbbb, type: 3}
+    EngLocalizePath: Textures/ru.png
+    RuLocalize: {fileID: 21300000, guid: c394df3d85933424391cea59359b4030, type: 3}
+    RuLocalizePath: Textures/eng.png
+  - Term: Image/TravelBegins
+    EngLocalize: {fileID: 21300000, guid: 182f82354fbdfae49bc10b8d9c0f4f05, type: 3}
+    EngLocalizePath: Textures/bag-eng.png
+    RuLocalize: {fileID: 21300000, guid: e2d3a0a20ff7dea418b3d28f727e220d, type: 3}
+    RuLocalizePath: Textures/bag-ru.png

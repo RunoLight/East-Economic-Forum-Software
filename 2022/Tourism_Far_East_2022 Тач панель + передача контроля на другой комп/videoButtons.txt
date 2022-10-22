@@ -1,0 +1,15 @@
+Video - En - Ru
+Amur - 65(A) - 90(Z)
+Baikal - 66(B) - 89(Y)
+Buriatia - 67(C) - 88(X)
+Chukotka - 68(D) - 87(W)
+EAO - 69(E) - 86(V)
+Kamchatka - 70(F) - 85(U)
+Khabarovsk - 71(G) - 84(T)
+Magadan - 72(H) - 83(S)
+Primorie - 73(I) - 82(R)
+Saha - 74(J) - 81(Q)
+Sakhalin - 75(K) - 80(P)
+
+
+Home - 50(2) - 49(1)
